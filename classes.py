@@ -1,7 +1,7 @@
 # class mcasem3:
 #     classrep1 = "Revathi"
 #     classrep2 = "Sivanand"
-#     placementrep = "Gracen"
+#     placementrep = "Gracen" 
     
 #     def duties():
 #         print("Attendance")
