@@ -2,7 +2,7 @@
 class CS:
     def __init__(self, course, subject):
         self.coursename = course
-        self.subjectname = subject
+        self.subjectname = subject 
 
     def printname(self):
         print(self.coursename, self.subjectname)
