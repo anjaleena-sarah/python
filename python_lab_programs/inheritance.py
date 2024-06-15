@@ -6,7 +6,7 @@ class CS:
 
     def printname(self):
         print(self.coursename, self.subjectname)
-
+ 
 class Commerce(CS):
     def __init__(self, course, subject):
         super().__init__(course, subject) 
