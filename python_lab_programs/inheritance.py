@@ -4,7 +4,7 @@ class CS:
         self.coursename = course
         self.subjectname = subject 
 
-    def printname(self):
+    def printname(self): 
         print(self.coursename, self.subjectname)
  
 class Commerce(CS):
