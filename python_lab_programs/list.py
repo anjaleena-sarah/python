@@ -6,7 +6,7 @@ print("The type of list2", type(list2))
 print("The type of list3", type(list3))  
 
 #concatenation of dictionary
-d={ 
+d={  
     "student1":{
     "name":"sarah",
     "age":"22",
