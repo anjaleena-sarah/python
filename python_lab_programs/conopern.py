@@ -3,7 +3,7 @@ myList=['albin','bhagya','anjaleena','ridha','abhinav']
 
 print(myList)
 
-print(myList[0]) 
+print(myList[0])  
 
 length=len(myList)
 
