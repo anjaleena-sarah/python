@@ -9,7 +9,7 @@ length=len(myList)
 
 #if-else
 if (length>0):
-    print("List is not empty")
+    print("List is not empty") 
 else:
     print("empty")
   
