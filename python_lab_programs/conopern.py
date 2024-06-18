@@ -6,7 +6,7 @@ print(myList)
 print(myList[0])  
 
 length=len(myList)
-
+ 
 #if-else
 if (length>0):
     print("List is not empty") 
