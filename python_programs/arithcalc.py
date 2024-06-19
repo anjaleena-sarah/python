@@ -3,7 +3,7 @@ sno=int(input('enter the 2nd number '))
 
  
 op=input("select the input from +,-,*,/")
-
+ 
 if op=='+':
     print(fno + sno)
 elif op=='-':
