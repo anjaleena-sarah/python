@@ -8,7 +8,7 @@ print("The type of list3", type(list3))
 #concatenation of dictionary
 d={  
     "student1":{
-    "name":"sarah",
+    "name":"sarah", 
     "age":"22",
     "city":"banglore",
     "marks":{
