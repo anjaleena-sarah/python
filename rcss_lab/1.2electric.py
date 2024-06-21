@@ -2,7 +2,7 @@ def calculate_bill(units):
     bill = 0
     
     # Calculate bill based on units consumed
-    if units <= 200:
+    if units <= 200: 
         bill = units * 0.5
     elif units <= 400:
         bill = (200 * 0.5) + ((units - 200) * 0.65)
