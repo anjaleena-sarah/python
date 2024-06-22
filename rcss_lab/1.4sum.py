@@ -3,7 +3,7 @@ def divisiblesofseven(start, end):
     total_sum = 0
     for num in range(start, end):
         if num % 7 == 0:
-            divisible_numbers.append(num)
+            divisible_numbers.append(num) 
             total_sum += num
     return divisible_numbers, total_sum
 start_range = 101
