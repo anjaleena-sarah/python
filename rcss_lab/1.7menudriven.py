@@ -1,4 +1,4 @@
-def menu():
+def menu(): 
     print("String Operations Menu")
     print("1. Check if a String is a Substring of Another String")
     print("2. Count Occurrences of a Character")
