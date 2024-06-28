@@ -2,7 +2,7 @@ factorials = {}  # Dictionary to store factorials
 
 def factorial(n):
     # Check if the factorial is already calculated and stored in the dictionary
-    if n in factorials:
+    if n in factorials: 
         return factorials[n]
  
     # Calculate the factorial if it's not in the dictionary
