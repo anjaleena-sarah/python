@@ -9,7 +9,7 @@ def factorial(n):
     if n == 0:
         result = 1
     else:
-        result = n * factorial(n - 1)
+        result = n * factorial(n - 1) 
 
     # Store the calculated factorial in the dictionary
     factorials[n] = result
