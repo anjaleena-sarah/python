@@ -6,7 +6,7 @@ def main():
     for i in range(1, n + 1):
         print(f"\nEnter details for student {i}:")
         name = input("Enter student's name: ")
-        roll_no = input("Enter student's roll number: ")
+        roll_no = input("Enter student's roll number: ") 
         total_marks = float(input("Enter student's total marks: "))
         
         student_dict[i] = {
