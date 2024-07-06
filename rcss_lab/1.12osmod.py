@@ -1,6 +1,6 @@
 import os
 
-# 1.12. Using the OS Module
+# 1.12. Using the OS Module 
 
 # 1.12.1. Create a directory
 def create_directory(directory_name):
