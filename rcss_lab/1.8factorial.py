@@ -6,7 +6,7 @@ def factorial(n):
         return factorials[n]
  
     # Calculate the factorial if it's not in the dictionary 
-    if n == 0:
+    if n == 0: 
         result = 1
     else:
         result = n * factorial(n - 1) 
