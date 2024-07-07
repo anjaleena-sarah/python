@@ -3,7 +3,7 @@ def is_palindrome(num):
     Checks if a number is a palindrome.
     """
     original_num = num
-    reversed_num = 0
+    reversed_num = 0 
     
     while num > 0:
         digit = num % 10 
