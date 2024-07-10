@@ -6,7 +6,7 @@
 #         # print("* ", end=" ")
 #         print(j+1, end=" ")
 #     print()
-    
+     
     
 rows = int(input("Enter number of rows: "))
 
