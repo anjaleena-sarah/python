@@ -3,7 +3,7 @@ class Animal:
         pass
 
 class Dog(Animal):
-    def speak(self):
+    def speak(self): 
         return "Woof!"
 
 class Cat(Animal):
