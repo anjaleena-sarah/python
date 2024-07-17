@@ -7,7 +7,7 @@ class Dog(Animal):
         return "Woof!"
 
 class Cat(Animal): 
-    def speak(self):
+    def speak(self): 
         return "Meow!"
 
 def animal_sound(animal): 
