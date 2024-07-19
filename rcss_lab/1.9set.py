@@ -5,7 +5,7 @@ def set_intersection(set1, set2):
     return set1.intersection(set2) 
  
 def set_difference(set1, set2): 
-    return set1.difference(set2) 
+    return set1.difference(set2)  
  
 # Example usage:
 if __name__ == "__main__":
