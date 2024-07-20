@@ -11,7 +11,7 @@ def factorial(n):
     else:
         result = n * factorial(n - 1) 
 
-    # Store the calculated factorial in the dictionary
+    # Store the calculated factorial in the dictionary 
     factorials[n] = result
 
     return result
