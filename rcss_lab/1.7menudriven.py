@@ -6,7 +6,7 @@ def menu():
     print("4. Convert to Capital Letters")
     print("5. Exit") 
 
-def is_substring():
+def is_substring(): 
     string1 = input("Enter the main string: ")  
     substring = input("Enter the substring to check: ")
     if substring in string1:
