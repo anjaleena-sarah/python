@@ -8,7 +8,7 @@ def set_difference(set1, set2):
     return set1.difference(set2)  
  
 # Example usage:
-if __name__ == "__main__":
+if __name__ == "__main__": 
     set1 = {1, 2, 3, 4}
     set2 = {3, 4, 5, 6}
 
