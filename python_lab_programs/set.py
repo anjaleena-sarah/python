@@ -3,3 +3,4 @@ s2={'a','b','c','d','e',21,22,23,22,'23'} #duplicates will not be printed twice
 print(s1)
 print(s2) #unordered output   
  
+ 
