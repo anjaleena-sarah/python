@@ -10,7 +10,7 @@ def set_difference(set1, set2):
 # Example usage:
 if __name__ == "__main__": 
     set1 = {1, 2, 3, 4}
-    set2 = {3, 4, 5, 6}
+    set2 = {3, 4, 5, 6} 
 
     print("Set 1:", set1)
     print("Set 2:", set2)
