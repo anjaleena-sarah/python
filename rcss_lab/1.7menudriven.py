@@ -4,7 +4,7 @@ def menu():
     print("2. Count Occurrences of a Character")
     print("3. Replace a Substring with Another Substring")
     print("4. Convert to Capital Letters")
-    print("5. Exit") 
+    print("5. Exit")  
 
 def is_substring(): 
     string1 = input("Enter the main string: ")  
