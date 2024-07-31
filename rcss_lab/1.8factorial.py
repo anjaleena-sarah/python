@@ -8,7 +8,7 @@ def factorial(n):
     # Calculate the factorial if it's not in the dictionary 
     if n == 0: 
         result = 1
-    else:
+    else: 
         result = n * factorial(n - 1) 
 
     # Store the calculated factorial in the dictionary 
