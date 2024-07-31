@@ -8,7 +8,7 @@ def menu():
 
 def is_substring(): 
     string1 = input("Enter the main string: ")  
-    substring = input("Enter the substring to check: ")
+    substring = input("Enter the substring to check: ") 
     if substring in string1:
         print(f"'{substring}' is a substring of '{string1}'")
     else:
