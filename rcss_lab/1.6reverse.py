@@ -7,7 +7,7 @@ def is_palindrome(num):
     
     while num > 0: 
         digit = num % 10 
-        reversed_num = reversed_num * 10 + digit
+        reversed_num = reversed_num * 10 + digit 
         num //= 10
     
     return original_num == reversed_num
